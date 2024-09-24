@@ -22,6 +22,7 @@ for the day.
 ###
 
 ***Integrating #100DaysOfCode into my Study Plan***
+
 _Commit to Coding Daily_
 - Spend at least 1 hour coding or studying web development topics from my personal syllabus
 - Minimum 1 pomodoro studying from The Odin Project
@@ -68,25 +69,32 @@ _Implement Rest Days_
 #### Personal Portfolio Website (Weeks 1-4)
 
 **Overview**
+
 - A personal portfolio website showcasing my skills, projects, and a bit about myself. This is a static site project that will evolve as I grow more advanced in CSS, responsive design, and eventually JavaScript.
 
 **Phase 1: Basic HTML Structure**
+
 _Goal_
 - [ ] Set up basic structure of the portfolio.
+
 _Tasks_ 
 - [ ] Create separate sections for my profile, projects, and contact info.
 - [ ] Include headings, paragraphs, lists, and links.
 
 **Phase 2: Basic CSS Styling**
+
 _Goal_
 - [ ] Style my portfolio using basic CSS.
+
 _Tasks_
 - [ ] Add fonts, colors, and layout styles.
 - [ ] Use Flexbox for layout (align sections and ensure they stack properly on smaller screens)
 
 **Phase 3: Responsive Design**
+
 _Goal_
 - [ ] Make the portfolio responsive using media queries and Grid.
+
 _Tasks_
 - [ ] Use CSS Grid for a more advanced layout
 - [ ] Add media queries to ensure the portfolio is mobile-friendly. 
@@ -95,26 +103,33 @@ _Tasks_
 #### To-Do List Application (Weeks 5-6)
 
 **Overview**
+
 A basic to-do list application where users can add, complete, and delete tasks. This project will focus on JS DOM manipulation and event handling.
 
 **Phase 1: HTML & CSS Setup**
+
 _Goal_
 - [ ] Create the user interface with HTML and CSS.
+
 _Tasks_
 - [ ] Set up a basic HTML structure with an input field, "Add Task" button, and an empty list.
 - [ ] Style the layout with CSS (use Flexbox/Grid for organizing the form and task list)
 
 **Phase 2: JavaScript for DOM Manipulation**
+
 _Goal_
 - [ ] Add functionality to interact with tasks (add, remove, mark complete)
+
 _Tasks_
 - [ ] Use JavaScript to capture form input and add tasks to the list dynamically
 - [ ] Implement delete functionality for each task
 - [ ] Add a checkbox or click event to mark tasks as complete
 
 **Phase 3: Refactor and Optimize**
+
 _Goal_
 - [ ] Clean up and organize my code
+
 _Tasks_
 - [ ] Refactor my JS code for better readability and performance
 - [ ] Consider storing tasks in an array and updating the DOM based on the array's state.
@@ -123,26 +138,33 @@ _Tasks_
 #### Tip Calculator (Weeks 7-8)
 
 **Overview**
+
 Build a Tip Calculator that allows users to input their bill amount, select a tip percentage, and calculate the total bill and tip per person. This project is mean to push my understandings of JavaScript functions, math calculations, and user interaction.
 
 **Phase 1: HTML & CSS Setup**
+
 _Goal_
 - [ ] Create the structure and style for the calculator interface
+
 _Tasks_
 - [ ] Create the input fields for bill amount, tip percentage, and number of people
 - [ ] Add buttons or dropdowns for common tip percentages
 - [ ] Design the layout using CSS for a clean, responsive user interface.
 
 **Phase 2: JavaSCript Functionality**
+
 _Goal_
 - [ ] Implement the calculation logic using JavaSCript
+
 _Tasks_
 - [ ] Write functions to calculate the tip amount and total bill per person
 - [ ] Add event listeners to update the calculations dynamically as the user changes input values.
 
 **Phase 3: Refactor and Improve**
+
 _Goal_
 - [ ] Optimize the user experience and improve the code.
+
 _Tasks_
 - [ ] Refactor your JS for better readability and maintainability. 
 - [ ] Add error handling (e.g. prevent division by zero)
@@ -152,25 +174,32 @@ _Tasks_
 #### Weather App (Weeks 9-10)
 
 **Overview**
+
 A weather app that fetches real-time weather data from an API and displays it to the user. This project is meant to reinforce my understandings of asynchronous JavaScript, APIs, and Fetch.
 
 **Phase 1: HTML & CSS Setup**
+
 _Goal_
 - [ ] Set up the structure and design for the weather app.
+
 _Tasks_
 - [ ] Create a basic form where users can input a city name.
 - [ ] Design the layout using CSS to display the weather data (temperature, conditions, etc.)
 
 **Phase 2: API Integration**
+
 _Goal_
 - [ ] Fetch weather data from a public API
+
 _Tasks_
 - [ ] Use the Fetch API to get weather data based on user input.
 - [ ] Parse and display the returned weather data (temperature, weather description)
 
 **Phase 3: Error Handling and UI Improvement**
+
 _Goal_
 - [ ] Improve user interface and handle potential errors
+
 _Tasks_
 - [ ] Add error handling for invalid city names or network errors.
 - [ ] Display helpful messages (e.g. "City not found" or "Fetching data...")
@@ -180,25 +209,32 @@ _Tasks_
 #### Interactive React Application (Weeks 11-12)
 
 **Overview**
+
 Build a dynamic and interactive React applicatoin such as a to-do list, a simple calculator, or a movie search app. This milestone focuses on React fundamentals.
 
 **Phase 1: Set Up React Environment**
+
 _Goal_
 - [ ] Set up my React project and build basic components.
+
 _Tasks_ 
 - [ ] Create a React app using `create-react-app`
 - [ ] Build basic functional components and structure the app
 
 **Phase 2: State and Props Management**
+
 _Goal_
 - [ ] Implement state and props to make the app interactive
+
 _Tasks_
 - [ ] Add interactivity using `useState` to manage user input and dynamic content.
 - [ ] Pass props between components to display and manipulate data.
 
 **Phase 3: Finalize and Refactor**
+
 _Goal_
 - [ ] Refine my app and improve its performance
+
 _Tasks_
 - [ ] Refactor my components to ensure they're modular and reusable
 - [ ] Test the app thoroughly for functionality and performance.
@@ -207,31 +243,38 @@ _Tasks_
 #### Full-Stack Project with Node.js and Express (Weeks 17-18 and Beyond)
 
 **Overview**
+
 A full-stack project that involves building a basic web app with a back-end server using Node.js, Express, and possibly a databass. It could be a simple blog platform, a task manager, or a small e-commerce site. 
 
 **Phase 1: Back-End Setup**
+
 _Goal_
 - [ ] Set up the Node.js and Express server
+
 _Tasks_
 - [ ] Create Express server and define routes for basic HTTP requests
 - [ ] Set up a REST API with routes to handle CRUD operations (create, read, update, delete)
 
 **Phase 2: Front-End and API Integration**
+
 _Goal_
 - [ ] Connect front-end React app to the back-end API
+
 _Tasks_
 - [ ] Use `fetch` or `axios` to connect the front-end to the back-end
 - [ ] Ensure that the app can retrieve and display data from the back-end
 
 **Phase 3: Database Integration**
+
 _Goal_
 - [ ] Store and retreive data from a database (e.g. MongoDB)
+
 _Tasks_
 - [ ] Set up a MongoDB database and integrate it with Express API
 - [ ] ALlow users to add, update, or delete data, with the changes reflected in the database. 
 
 ## Weekly Challenges
-***In order to further challenge myself and ipmrove on specific coding skills (without embarking on yet another project), I've decided to schedule weekly code snippet challenges. This section will be simply the schedule regarding the weekly challenges. For more details regarding these challenges, please head over to the [Weekly Challenge](100DaysOfCode/weeklyChallenge.md)** 
+***In order to further challenge myself and ipmrove on specific coding skills (without embarking on yet another project), I've decided to schedule weekly code snippet challenges. This section will be simply the schedule regarding the weekly challenges. For more details regarding these challenges, please head over to the [Weekly Challenge](100DaysOfCode/weeklyChallenge.md)***
 
 1. String Reversal
 2. FizzBuzz
