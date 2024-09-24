@@ -290,7 +290,7 @@ _Tasks_
 - [ ] ALlow users to add, update, or delete data, with the changes reflected in the database. 
 
 ## Weekly Challenges
-***In order to further challenge myself and ipmrove on specific coding skills (without embarking on yet another project), I've decided to schedule weekly code snippet challenges. This section will be simply the schedule regarding the weekly challenges. For more details regarding these challenges, please head over to the [Weekly Challenge](100DaysOfCode/weeklyChallenge.md)***
+***In order to further challenge myself and ipmrove on specific coding skills (without embarking on yet another project), I've decided to schedule weekly code snippet challenges. This section will be simply the schedule regarding the weekly challenges. For more details regarding these challenges, please head over to the [Weekly Challenge](100daysofcode/weeklychallenge.md)***
 
 1. String Reversal
 2. FizzBuzz
