@@ -35,7 +35,7 @@ for the day.
 
 [Weekly Challenges](#weekly-challenges)
 
-[FinalNotes](#final-notes)
+[Final Notes](#final-notes)
 
 ***Integrating #100DaysOfCode into my Study Plan***
 
