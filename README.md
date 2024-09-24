@@ -21,15 +21,20 @@ for the day.
 
 ### Table of Contents
 [Overview](#100daysofcode-challenge)
+
 [Table of Contents](#table-of-contents)
+
 [Milestone Projects](#milestone-projects)
+
 - [Milestone One](#milestone-one)
 - [Milestone Two](#milestone-two)
 - [Milestone Three](#milestone-three)
 - [Milestone Four](#milestone-four)
 - [Milestone Five](#milestone-five)
 - [Milestone Six](#milestone-six)
+
 [Weekly Challenges](#weekly-challenges)
+
 [FinalNotes](#final-notes)
 
 ***Integrating #100DaysOfCode into my Study Plan***
