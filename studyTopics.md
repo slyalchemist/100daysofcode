@@ -3,4 +3,8 @@
 
 ## JavaScript
 
+- [ ] strings
+- [ ] loops
+- [ ] array methods
+
 ## HTML/CSS
