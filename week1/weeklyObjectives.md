@@ -26,44 +26,44 @@ Hopefully these documents will help me further be even more accountable, and I c
 
 ## Day 3
 
-- [] Review basic HTML tags, elements, forms
+- [ ] Review basic HTML tags, elements, forms
     - Headings, paragraphs, links
     - Images, lists, tables
     - Input fields, buttons
-- [] TOP: Objects and Object Constructors
-- [] Update `progress.md` and commit
+- [ ] TOP: Objects and Object Constructors
+- [ ] Update `progress.md` and commit
 
 ## Day 4
 
-- [] Review basic CSS
+- [ ] Review basic CSS
     - Selectors, properties
     - Box Model
     - Flexbox
     - Media Queries
-- [] Codecademy: Classes
-- Update `progress.md` and commit
+- [ ] Codecademy: Classes
+- [ ] Update `progress.md` and commit
 
 ## Day 5
 
-- [] TOP: Project - Library
-- [] Update `progress.md` and commit
+- [ ] TOP: Project - Library
+- [ ] Update `progress.md` and commit
 
 ## Day 6
 
-- [] TOP: Project - Library
-- [] Practice code snippets requiring review
-- [] Update `progress.md` and commit
+- [ ] TOP: Project - Library
+- [ ] Practice code snippets requiring review
+- [ ] Update `progress.md` and commit
 
 ## Day 7
 
-- [] Reflect and Share
+- [ ] Reflect and Share
     - Write a reflection on my progress this week in `progress.md`, share on social media, push changes to GitHub.
-- [] Update Weekly Statistics
-- [] Update Study Topics
+- [ ] Update Weekly Statistics
+- [ ] Update Study Topics
 
 ## Notes
 
 ## Weekly Statistics
 
-*Objectives Completed*: []
-*Pomodoros Completed*: []
+*Objectives Completed*: [x]
+*Pomodoros Completed*: [x]
