@@ -4,6 +4,38 @@ Welcome to the Weekly Challenges file! In this file I will be putting in my sche
 
 ## Table of Contents
 
+[Week 1](#week-1-string-reversal)
+
+[Week 2](#week-2-fizzbuzz)
+
+[Week 3](#week-3-palindrome-checker)
+
+[Week 4](#week-4-array-chunking)
+
+[Week 5](#week-5-find-the-longest-word)
+
+[Week 6](#week-6-sum-of-array-elements)
+
+[Week 7](#week-7-capitalize-every-word)
+
+[Week 8](#week-8-find-duplicates-in-an-array)
+
+[Week 9](#week-9-remove-array-duplicates)
+
+[Week 10](#week-10-merge-two-sorted-arrays)
+
+[Week 11](#week-11-count-vowels-in-a-string)
+
+[Week 12](#week-12-factorialize-a-number)
+
+[Week 13](#week-13-find-the-largest-number-in-an-array)
+
+[Week 14](#week-14-flatten-a-multi-dimensional-array)
+
+[Week 15](#week-15-check-for-anagram)
+
+[Week 16](#week-16-sum-all-primes)
+
 ## Week 1: String Reversal
 
 **Challenge**: Write a function that takes a string as input and returns the string reversed.

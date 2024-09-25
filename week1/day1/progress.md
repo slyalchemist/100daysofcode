@@ -20,7 +20,7 @@
 ### Next Steps
 
 - Continue working on filling out the repository with
-    - [ ] Weekly Schedule
+    - [x] Weekly Schedule
     - [ ] 100 Day Study Syllabus
     - [x] Week Folder Template
     - [x] Day Folder Template
