@@ -22,9 +22,9 @@
 - Continue working on filling out the repository with
     - [ ] Weekly Schedule
     - [ ] 100 Day Study Syllabus
-    - [ ] Week Folder Template
-    - [ ] Day Folder Template
-    - [ ] progress.md Template
+    - [x] Week Folder Template
+    - [x] Day Folder Template
+    - [x] progress.md Template
 
 - Determine topics requiring a refresher
-    - [ ] Make a file with study/review topics.
+    - [x] Make a file with study/review topics.
