@@ -26,12 +26,12 @@ Hopefully these documents will help me further be even more accountable, and I c
 
 ## Day 3
 
-- [ ] Review basic HTML tags, elements, forms
+- [x] Review basic HTML tags, elements, forms
     - Headings, paragraphs, links
     - Images, lists, tables
     - Input fields, buttons
-- [ ] TOP: Objects and Object Constructors
-- [ ] Update `progress.md` and commit
+- [x] TOP: Objects and Object Constructors
+- [x] Update `progress.md` and commit
 
 ## Day 4
 
@@ -41,11 +41,11 @@ Hopefully these documents will help me further be even more accountable, and I c
     - Flexbox
     - Media Queries
 - [ ] Codecademy: Classes
-- [ ] Update `progress.md` and commit
+- [x] Update `progress.md` and commit
 
 ## Day 5
 
-- [ ] TOP: Project - Library
+- [x] TOP: Project - Library
 - [ ] Update `progress.md` and commit
 
 ## Day 6
