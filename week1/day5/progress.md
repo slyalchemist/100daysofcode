@@ -23,3 +23,4 @@
 - [ ] Codecademy: Classes
 - [ ] Determine what needs to be reviewed
 - [ ] Spend time reviewing code
+- [ ] Begin milestone project
