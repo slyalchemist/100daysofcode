@@ -35,7 +35,7 @@ Hopefully these documents will help me further be even more accountable, and I c
 
 ## Day 4
 
-- [ ] Review basic CSS
+- [x] Review basic CSS
     - Selectors, properties
     - Box Model
     - Flexbox
@@ -46,11 +46,11 @@ Hopefully these documents will help me further be even more accountable, and I c
 ## Day 5
 
 - [x] TOP: Project - Library
-- [ ] Update `progress.md` and commit
+- [x] Update `progress.md` and commit
 
 ## Day 6
 
-- [ ] TOP: Project - Library
+- [x] TOP: Project - Library
 - [ ] Practice code snippets requiring review
 - [ ] Update `progress.md` and commit
 
