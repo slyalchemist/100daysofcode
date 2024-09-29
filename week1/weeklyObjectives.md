@@ -40,7 +40,7 @@ Hopefully these documents will help me further be even more accountable, and I c
     - Box Model
     - Flexbox
     - Media Queries
-- [ ] Codecademy: Classes
+- [x] Codecademy: Classes
 - [x] Update `progress.md` and commit
 
 ## Day 5
@@ -51,7 +51,7 @@ Hopefully these documents will help me further be even more accountable, and I c
 ## Day 6
 
 - [x] TOP: Project - Library
-- [ ] Practice code snippets requiring review
+- [-] Practice code snippets requiring review
 - [ ] Update `progress.md` and commit
 
 ## Day 7
