@@ -18,17 +18,60 @@ Hopefully these documents will help me further be even more accountable, and I c
 
 ## Day 1
 
-## Day 2
+- [x] Coursera: Module 1
+- [x] Weekly Objectives
+- [x] Update `progress.md`
 
-## Day 3
+## Day 2 - Light
 
-## Day 4
+- [ ] Coursera: Overview of Browsers
+- [ ] Coursera: How Browsers and Requests Work
+- [ ] Coursera: Intro to HTTP and HTTPS
+- [ ] Codecademy: HTML - Elements and Structure - Intro to HTML
+- [ ] Update `progress.md`
 
-## Day 5
+## Day 3 - Med
 
-## Day 6
+- [ ] Coursera: How Does a Web Server Work?
+- [ ] Coursera: Intro to Websites and Pages
+- [ ] Coursera: Expert Viewpoints - Where does a Front-End Dev play a key role?
+- [ ] Coursera: Web Frameworks and Platforms
+- [ ] Coursera: Lesson 1 - Intro to Website Basics
+- [ ] Codecademy: HTML - Elements and Structure - HTML Document Standards
+- [ ] Update `progress.md`
+
+## Day 4 - Light
+
+- [ ] Coursera: Web Hosting and Other Internet Protocols
+- [ ] Coursera: Web Languages
+- [ ] Coursera: Intro to Accessibility
+- [ ] Coursera: Expert Viewpoints - Which web language do you prefer?
+- [ ] Codecademy: HTML - Tables - HTML Tables
+- [ ] Update `progress.md`
+
+## Day 5 - Med
+
+- [ ] Coursera: Saving Data on the Web
+- [ ] Coursera: Introduction to Cloud
+- [ ] Coursera: Lesson 2 - Web Hosting, Protocols, and Languages
+- [ ] TOP: Factory Functions and the Module Pattern
+- [ ] TOP: Begin 'Tic Tac Toe' Project
+- [ ] Update `progress.md`
+
+## Day 6 - Heavy 
+- [ ] Coursera: Module 2 Summary
+- [ ] Coursera: Module 2 Glossary
+- [ ] Coursera: Module 2 Quiz
+- [ ] TOP: Finish 'Tic Tac Toe' Project
+- [ ] Codecademy: HTML - Forms - HTML Forms
+- [ ] Update `progress.md`
 
 ## Day 7
+
+- [ ] Codecademy: HTML - Forms - Form Validation
+- [ ] Codecademy: HTML - Semantic HTML - Semantic HTML
+- [ ] Weekly Challenge: FizzBuzz
+- [ ] Update `progress.md`
 
 ## Notes
 
