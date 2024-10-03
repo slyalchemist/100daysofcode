@@ -24,20 +24,20 @@ Hopefully these documents will help me further be even more accountable, and I c
 
 ## Day 2 - Light
 
-- [ ] Coursera: Overview of Browsers
-- [ ] Coursera: How Browsers and Requests Work
-- [ ] Coursera: Intro to HTTP and HTTPS
-- [ ] Codecademy: HTML - Elements and Structure - Intro to HTML
-- [ ] Update `progress.md`
+- [x] Coursera: Overview of Browsers
+- [x] Coursera: How Browsers and Requests Work
+- [x] Coursera: Intro to HTTP and HTTPS
+- [x] Codecademy: HTML - Elements and Structure - Intro to HTML
+- [x] Update `progress.md`
 
 ## Day 3 - Med
 
-- [ ] Coursera: How Does a Web Server Work?
+- [x] Coursera: How Does a Web Server Work?
 - [ ] Coursera: Intro to Websites and Pages
 - [ ] Coursera: Expert Viewpoints - Where does a Front-End Dev play a key role?
 - [ ] Coursera: Web Frameworks and Platforms
 - [ ] Coursera: Lesson 1 - Intro to Website Basics
-- [ ] Codecademy: HTML - Elements and Structure - HTML Document Standards
+- [x] Codecademy: HTML - Elements and Structure - HTML Document Standards
 - [ ] Update `progress.md`
 
 ## Day 4 - Light
