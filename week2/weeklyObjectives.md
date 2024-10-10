@@ -33,20 +33,20 @@ Hopefully these documents will help me further be even more accountable, and I c
 ## Day 3 - Med
 
 - [x] Coursera: How Does a Web Server Work?
-- [ ] Coursera: Intro to Websites and Pages
-- [ ] Coursera: Expert Viewpoints - Where does a Front-End Dev play a key role?
-- [ ] Coursera: Web Frameworks and Platforms
-- [ ] Coursera: Lesson 1 - Intro to Website Basics
+- [x] Coursera: Intro to Websites and Pages
+- [x] Coursera: Expert Viewpoints - Where does a Front-End Dev play a key role?
+- [x] Coursera: Web Frameworks and Platforms
+- [x] Coursera: Lesson 1 - Intro to Website Basics
 - [x] Codecademy: HTML - Elements and Structure - HTML Document Standards
-- [ ] Update `progress.md`
+- [x] Update `progress.md`
 
 ## Day 4 - Light
 
-- [ ] Coursera: Web Hosting and Other Internet Protocols
-- [ ] Coursera: Web Languages
-- [ ] Coursera: Intro to Accessibility
-- [ ] Coursera: Expert Viewpoints - Which web language do you prefer?
-- [ ] Codecademy: HTML - Tables - HTML Tables
+- [x] Coursera: Web Hosting and Other Internet Protocols
+- [x] Coursera: Web Languages
+- [x] Coursera: Intro to Accessibility
+- [x] Coursera: Expert Viewpoints - Which web language do you prefer?
+- [x] Codecademy: HTML - Tables - HTML Tables
 - [ ] Update `progress.md`
 
 ## Day 5 - Med
@@ -54,7 +54,7 @@ Hopefully these documents will help me further be even more accountable, and I c
 - [ ] Coursera: Saving Data on the Web
 - [ ] Coursera: Introduction to Cloud
 - [ ] Coursera: Lesson 2 - Web Hosting, Protocols, and Languages
-- [ ] TOP: Factory Functions and the Module Pattern
+- [x] TOP: Factory Functions and the Module Pattern
 - [ ] TOP: Begin 'Tic Tac Toe' Project
 - [ ] Update `progress.md`
 

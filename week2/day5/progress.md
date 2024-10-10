@@ -1,6 +1,6 @@
 # Daily Progress
 
-## Day x - [//2024]
+## Day x - [10/04/2024]
 
 ### Today's Progress
 
